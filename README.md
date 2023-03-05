@@ -7,7 +7,7 @@ This example demonstrates how to mutate Hygraph data with node.
 ### Download Manually
 
 ```bash
-git clone 
+git clone https://github.com/erickvictor/hypergraph-csv.git
 ```
 
 Install & Run:
